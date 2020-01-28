@@ -8,3 +8,10 @@ sudo su
 exit
 sudo su
 exit
+sudo su
+clear
+exit
+sudo su
+exit
+sudo su
+exit
