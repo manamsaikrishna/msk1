@@ -15,3 +15,7 @@ sudo su
 exit
 sudo su
 exit
+sudo su
+ls
+ls -la
+exit
